@@ -163,7 +163,7 @@ compress_html:
     envs: development
 
 
-collections:
-  zh:
-    output: true
-    permalink: /:collection/:title/
+# collections:
+#   zh:
+#     output: true
+#     permalink: /:collection/:title/
